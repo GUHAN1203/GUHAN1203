@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GUHAN R
 - 👀 I’m interested in programming,designing,editing
 - 🌱 I’m currently learning frontend development.
-- 📫 How to reach me ...you can reach me at guhanramu1203@gmail.com 
+- 📫 you can reach me at guhanramu1203@gmail.com 
 
 <!---
 GUHAN1203/GUHAN1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
